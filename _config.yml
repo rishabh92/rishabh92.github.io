@@ -26,25 +26,25 @@ highlighter: rouge
 # analytics-piwik-id: 1
 
 # if you don't want comments in your posts, set to false
-disqus: mydisqus
+disqus: false
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
+#facebook: myfacebook
 twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: mylinkedin
 youtube: myyoutube
 spotify: myspotify
-github: mygithub
+github: www.github.com/rishabh92
 medium: medium
 vimeo: myvimeo
-email: myemail@gmail.com
+email: rishabh.zhcet@gmail.com
 
 authors:
     johndoe:
-        name: John Doe
+        name: Rishabh Singh
         bio: A Man who travels the world eating noodles
         external-image: false
         picture: assets/images/profile.jpg
@@ -69,7 +69,7 @@ width: normal
 projects: true
 
 # if you don't need "about" or "blog", comment them out below
-about: false
+about: true
 blog: true
 
 # do you want to show the "read time" of the posts?
