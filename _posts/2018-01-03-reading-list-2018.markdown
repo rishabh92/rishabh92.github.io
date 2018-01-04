@@ -1,0 +1,29 @@
+---
+title: "Reading List 2018"
+layout: post
+date: 2018-01-03 18:46
+image: '/assets/images/'
+description: List of books for 2018
+tag:
+blog: true
+jemoji:
+author: Rishabh
+---
+## Hello World!!
+2017 was the year when i started taking reading regularly. I will be continuing this hobby in 2018 as well. As i am on a journey to become a better software engineer, most of the books i read are technical books but i will mix some non technical books as well this year. Here is my reading list:
+<span style="color:green">
+- [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)
+- [Code Complete 2](https://www.goodreads.com/book/show/4845.Code_Complete)
+- [Refactoring: Improving the Design of Existing Code](https://www.goodreads.com/book/show/44936.Refactoring)
+- [Ruby Programming: The Well-Grounded Rubyist](https://www.goodreads.com/book/show/31297882-ruby-programming?ac=1&from_search=true)
+- [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
+- [Release It!: Design and Deploy Production-Ready Software](https://www.goodreads.com/book/show/1069827.Release_It_)
+- [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.goodreads.com/book/show/85009.Design_Patterns)
+- [The Passionate Programmer](https://www.goodreads.com/book/show/6399113-the-passionate-programmer)
+- [Building Microservices: Designing Fine-Grained Systems](https://www.goodreads.com/book/show/22512931-building-microservices)
+- [Purely Functional Data Structures](https://www.goodreads.com/book/show/594288.Purely_Functional_Data_Structures)
+- [Everyone Communicates, Few Connect: What the Most Effective People Do Differently](https://www.goodreads.com/book/show/7715488-everyone-communicates-few-connect)
+</span>
+I will keep updated this blog as i make progress on my path to gain knowledge from above list.
+May the Force be with you!
+
